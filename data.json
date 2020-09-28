@@ -1,0 +1,8 @@
+{
+  "rootnode":
+  [
+    {"id":1, "name":"sagar", "surname":"harshe","age":26},
+    {"id":2, "name":"shubham", "surname":"kumare","age":23},
+    {"id":3, "name":"shubham", "surname":"dongare","age":26},
+  ]
+}
