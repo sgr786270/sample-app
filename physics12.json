@@ -1,13 +1,33 @@
 { 
     "Superposition Of Waves":
     [
-    {"title":"Amplitude of resultant wave due to superpostion of waves", "link":"ZLmQgIdKuFM"},
-      {"title":"Vibration of air column in pipe closed at one end", "link":"mPImGuban6E"},
-      {"title":"Vibration of air column in pipe closed at both end", "link":"c5IawOeaREo"}
+        {"title":"Lecture 1 - Amplitude of resultant wave due to superpostion of waves", "link":"ZLmQgIdKuFM"},
+        {"title":"Lecture 2 - Vibration of air column in pipe closed at one end", "link":"mPImGuban6E"},
+        {"title":"Lecture 3 - Vibration of air column in pipe closed at both end", "link":"c5IawOeaREo"}
     ],
-    "Quadratic Equation":
+    "Rotational Dynamics":
     [
-    {"title":"Lecture 1 - Linear equation in two variables", "link":"eYB6UxRrtgQ"}
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 2 - Centripital force and centrifugal force", "link":"RSrb2J1Y9JA"},
+        {"title":"Lecture 1 - Basic concept for application of centripeteal force", "link":"9EN4V3j_rPc"},
+        {"title":"Lecture 1 - Max speed along horizontal curve track", "link":"19JYk-HqNR8"},
+        {"title":"Lecture 1 - Banking of road and most safe speed along banked road", "link":"EAsFe28FGX0"},
+        {"title":"Lecture 1 - Well of death", "link":"EAsFe28FGX0"},
+        {"title":"Lecture 1 - Conical pendulam", "link":"XlPNQzxZAkU"},
+        {"title":"Lecture 1 - Vertical circular motion", "link":"0d9C-1sJYc8"},
+        {"title":"Lecture 1 - Vertical circular motion | Velocity at different position", "link":"vg69asi6S5M"},
+        {"title":"Lecture 1 - Remaining part of vertical circular motion | Mass tied to rod", "link":"dUusf7HrfFQ"},
+        {"title":"Lecture 1 - Sphere of death and convex bridge", "link":"c1k7nZAnuKE"},
+        {"title":"Lecture 1 - Basic of rotational motion", "link":"6ByYzXUZrY4"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"}
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"},
+        {"title":"Lecture 1 - Centripital force", "link":"bwAyJ93MOeU"}
+        
     ]
     
 }
